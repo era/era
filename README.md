@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](https://github.com/era/era/blob/master/flag.png)
 
 
