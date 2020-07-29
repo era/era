@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](assets/flag.png)
+![](https://github.com/era/era/blob/master/flag.png)
 
 
 - 🌱 I’m currently learning Rust, Machine Learning
