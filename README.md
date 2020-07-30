@@ -5,7 +5,7 @@
 
 Well, technology has the power to change the world, but at the moment is basically given even more power to the elites. The Global North elites, specially the USA, at the moment are free to [digitaly colonise the Global South](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232297). We must fight it by builing more free software, avoiding proprietary software and uneathical companies (Hey Github, are you still working with ICE?).
 
-Also, it's not ok to build software that will increase survelance on workers or remove labour rights (I'm looking at you Deliveroo and Uber). Software engineers need to stay together and say: [we won't build it](https://twbi.ie/).
+Also, it's not ok to build software that will increase surveillance on workers or remove labour rights (I'm looking at you Deliveroo and Uber). Software engineers need to stay together and say: [we won't build it](https://twbi.ie/).
 
 I'm a member of the [IWW](https://www.onebigunion.ie/) and I'm also around in the [TWC Slack](https://techworkerscoalition.org/).
 
