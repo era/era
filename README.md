@@ -11,6 +11,10 @@ I'm a member of the [IWW](https://www.onebigunion.ie/) and I'm also around in th
 
 I'm open to talk about labour rights, cooperatives, free software and job oportunities :)
 
-- 🌱 I’m currently learning Rust, Machine Learning
+- 🌱 I’m currently learning Rust and Machine Learning
+- 👨🏽‍💻 I write about workplace and tech at https://www.masterless.io and in Portuguese about tech life in Ireland at https://www.brtech.ie
 - 📫 How to reach me: brtechie@protonmail.com
-- 🔭 I’m currently working at Stripe. Previously AWS.
+- 🔭 I’m currently working at Stripe. Previously AWS (Control Plane team at Redshift).
+- 🛠 I work mostly with Java and Ruby.
+
+![](https://github.com/era/era/blob/master/anarcho-cat.jpg)
