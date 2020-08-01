@@ -1,7 +1,7 @@
 ![](https://github.com/era/era/blob/master/flag.png)
 
 
-☭ Hi there, I'm a software developer from the Global South. I believe that only free software and cooperatives can fight against Big Tech. Why we need to fight against Big Tech?
+☭ Hi there, I'm a software developer from the Global South. I believe that only free software and cooperatives are the best option to stand against Big Tech. Why we need it?
 
 Well, technology has the power to change the world, but at the moment is basically given even more power to the elites. The Global North elites, specially the USA, at the moment are free to [digitaly colonise the Global South](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3232297). We must fight it by builing more free software, avoiding proprietary software and uneathical companies (Hey Github, are you still working with ICE?).
 
