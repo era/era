@@ -16,5 +16,5 @@ I'm open to talk about labour rights, cooperatives, free software and job oportu
 - 📫 How to reach me: brtechie@protonmail.com
 - 🔭 I’m currently working at Stripe. Previously AWS (Control Plane team at Redshift).
 - 🛠 I work mostly with Java and Ruby.
+- Personal setup: Ubuntu with Gnome Shell + [material-shell](https://github.com/material-shell/material-shell)
 
-![](https://github.com/era/era/blob/master/anarcho-cat.jpg)
