@@ -9,5 +9,7 @@
 - 📫 How to reach me: brtechie@protonmail.com
 - 🔭 I’m currently working at Stripe. Previously AWS (Control Plane team at Redshift).
 - 🛠 I work mostly with Java and Ruby.
-- Personal setup: Ubuntu with Gnome Shell + [material-shell](https://github.com/material-shell/material-shell)
+- Personal setup: 
+    - (Desktop) Ubuntu with Gnome Shell + [material-shell](https://github.com/material-shell/material-shell)
+    - (Notebook) Manjaro with Gnome Shell + [material-shell](https://github.com/material-shell/material-shell)
 
