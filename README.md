@@ -1,7 +1,4 @@
-![](https://github.com/era/era/blob/master/flag.png)
-
-
-☭ Hi there,
+Hi there,
 
 - 🌱 I’m currently learning Rust, OS development and Machine Learning
 - &#9935; Checkout my [personal wiki!](https://wiki.anarchist.work) where I write about food, code and random shit!!
