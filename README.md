@@ -1,3 +1,5 @@
+## I'm moving my projects to [codeberg](https://codeberg.org/era)
+
 Hi there,
 
 ![](https://raw.githubusercontent.com/era/era/master/hey.webp)
