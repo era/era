@@ -1,4 +1,4 @@
-## I'm moving my projects to [codeberg](https://codeberg.org/era)
+## I'm moving my projects to [codeberg](https://codeberg.org/era) but keeping all the github repositories sync'ed.
 
 Hi there,
 
