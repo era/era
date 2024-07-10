@@ -1,7 +1,15 @@
-# You should check my [CODEBERG](https://codeberg.org/era) profile AND NOT my GITHUB, I will not be creating new projects here
+Hi, my name is Elias. Nice to meet you. I create stuff for a living. And well... I am also a Software Engineer, I previously worked at Huawei Ireland Research Center and more specifically at the Cloud Reliability R&D lab, building the foundations of Huawei Cloud. I was mainly focused on observability infrastructure.
 
-The projects listed here are only mirrors from my codeberg profile, in the future I won`t be creating those mirrors any more.
+I also worked on projects like Redshift (Amazon AWS) and financial systems (Stripe, Cielo, Banco Original, Banco Votorantim).
 
-Keeping the account so I can contribute with software hosted here.
+I decided to move to Tokyo and taste a bit of Japanese life.
 
-One example of my projects in Codeberg: https://codeberg.org/era/databook/
+I write [technical blog posts in English on my website](https://www.elias.sh/),
+
+I create content in (Brazilian) Portuguese:
+
+- [Twitch](https://twitch.tv/code_elias_code)
+- [Instagram](https://instagram.com/code_elias_code)
+
+
+If you like anything I build, consider supporting me on [Patreon](https://patreon.com/CodeEliasCode).
