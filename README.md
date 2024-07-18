@@ -4,12 +4,11 @@ I also worked on projects like Redshift (Amazon AWS) and financial systems (Stri
 
 I decided to move to Tokyo and taste a bit of Japanese life.
 
-I write [technical blog posts in English on my website](https://www.elias.sh/),
+I write [technical blog posts in English on my website](https://www.elias.sh/).
 
 I create content in (Brazilian) Portuguese:
 
 - [Twitch](https://twitch.tv/code_elias_code)
 - [Instagram](https://instagram.com/code_elias_code)
-
 
 If you like anything I build, consider supporting me on [Patreon](https://patreon.com/CodeEliasCode).
