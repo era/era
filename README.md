@@ -1,4 +1,4 @@
-I have an interest in programming languages, compilers and theory of computation.
+I have an interest in programming languages, compilers and theory of computation. I also enjoy building databases and distributed systems. 
 
 I have a [website](https://www.elias.sh/) where I write in English. But I also create content in (Brazilian) Portuguese:
 
